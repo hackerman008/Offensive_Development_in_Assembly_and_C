@@ -1,7 +1,7 @@
-# Offensive Security in Assembly and C
+# Offensive Development in Assembly and C
 
 ## Overview
-This repository contains the source code associated with the blog series **Offensive Security in Assembly and C**.
+This repository contains the source code associated with the blog series **Offensive Development in Assembly and C**.
 
 ## Repository Structure
 This repository is structured based on the blog series. Each blog post has a corresponding directory containing the relevant code.
